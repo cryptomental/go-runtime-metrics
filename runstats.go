@@ -7,7 +7,7 @@ import (
 
 	"fmt"
 
-	"github.com/influxdata/influxdb/client/v2"
+	"github.com/influxdata/influxdb1-client/v2"
 	"github.com/pkg/errors"
 	"github.com/tevjef/go-runtime-metrics/collector"
 )
